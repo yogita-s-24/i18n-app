@@ -1,24 +1,23 @@
 {
-    "en":{
-        "welcomeMessage" : "Welcome !",
-        "normalMessage" : "We hope you enjoy learning React.",
-        "greetingMessage":"Have a great day!",
+    "en": {
+        "welcomeMessage": "Welcome to Guide And Grow.",
+        "normalMessage": "We hope you enjoy learning New Concepts of React here.",
+        "greetingMessage": "Have a Great day!",
         "endMeaasage": "We learned how to i18n with React",
         "userStatusMessage": "<studentCount> user are learning in this session"
     },
-    "mr":{
-        "welcomeMessage" :"स्वागत आहे!",
-        "normalMessage":"आशा आहे  की तुम्हाला React शिकण्यात आवड आहे.",
-        "greetingMessage" : "तुमचा दिवस चांगला जावो!",
-        "endMeaasage": "या session 15 विद्यार्थी शिकत आहेत",
-        "userStatusMessage":"ह्या session मध्ये <studentCount> विद्यार्थी शिकत आहेत."
-
+    "mr": {
+        "welcomeMessage": "Guide and Grow मध्ये  स्वागत आहे.",
+        "normalMessage": "आपल्याला इथे React च्या नविन concepts शिकायला आवडेल, हे आशा आहे.",
+        "greetingMessage": "शुभ दिवस!",
+        "endMessage": "React सह I18n कसे करावे हे आपल्याला शिकवलं.",
+        "userStatusMessage": "<studentCount> विद्यार्थी या सत्रात शिकत आहेत."
     },
-    "hi":{
-        "welcomeMessage" : "स्वागत है!",
-        "normalMessage":"आशा है कि आप रिएक्ट सीखने में रुचि रखते हैं|",
-        "greetingMessage" :"आपका दिन अच्छा रहे!",
-        "endMeaasage":"हमने रिएक्ट के साथ i18n करना सीखा",
+    "hi": {
+        "welcomeMessage": "Guide and Grow में स्वागत है!",
+        "normalMessage": "आशा है कि आप रिएक्ट सीखने में रुचि रखते हैं|",
+        "greetingMessage": "आपका दिन अच्छा रहे!",
+        "endMeaasage": "हमने React के साथ I18n करना सीखा|",
         "userStatusMessage": "इस session में <studentCount> छात्र सीख रहे हैं|"
     }
 }
